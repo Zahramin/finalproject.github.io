@@ -1,6 +1,6 @@
 # finalproject.github.io
-final project for practical machine learning
-LOADING LIBRARIES AND IMPORT DATA
+#final project for practical machine learning
+#LOADING LIBRARIES AND IMPORT DATA
 Loading the required libraries andrRead training and testing data. Identifying “”, “NA” and “#DIV/0!” as “NA” (missing value) everywhere.
 library(caret)
 library(randomForest)
